@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: burlywood;
+    
+     
+}
+
+a{
+    color: black;
+}
+
+header{
+    display: block;
+    height: 80px;
+    background: blue;
+    align-items: center;
+    padding: 10px;
+    border: solid 5px black;
+}
+
+.contenido{
+    margin: 40px;
+}
+
+
+
+.box{
+   padding: 20px;
+   justify-content: center;
+   text-align: center;
+   border: solid 5px black;
+   
+   
+}
+
+.imagen{
+    width: 300px;
+    height: 200px;
+}
+
+.seccion{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+}
+
+.PP{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    justify-content:space-between;
+    align-items: center;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.PP img{
+    width: 40px;
+}
+
+.parrafos{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.JJ{
+    background: burlywood;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 5em;
+}
+
+.PP3{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    justify-content:space-between;
+    align-items: center;
+    padding: 1em 0;
+    text-align: center;
+
+}
+
+.PP3 img{
+    width: 40px;
+
+}
